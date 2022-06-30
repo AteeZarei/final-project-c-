@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3HxxJYbL+w2H50UdrMng7kqBuIYCg+YbxplHgyrizYCdbNHM9llddcvW4MBUj+DLUmUrifSWHKp3jA2ADAftw==",
+  "success": true,
+  "projectFilePath": "D:\\my pro\\Pro-Uniti\\Games(uniti)!!\\Matching_Game_Final_project\\Matching_Game_Final_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEEL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

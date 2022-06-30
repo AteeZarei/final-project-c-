@@ -1,0 +1,17 @@
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.exe
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.deps.json
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.runtimeconfig.json
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.runtimeconfig.dev.json
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.dll
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\bin\Debug\netcoreapp3.1\Matching_Game_Final_project.pdb
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.csproj.AssemblyReference.cache
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.Form1.resources
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.csproj.GenerateResource.cache
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.AssemblyInfoInputs.cache
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.AssemblyInfo.cs
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.csproj.CoreCompileInputs.cache
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.dll
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.pdb
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.genruntimeconfig.cache
+D:\my pro\Pro-Uniti\Games(uniti)!!\Matching_Game_Final_project\obj\Debug\netcoreapp3.1\Matching_Game_Final_project.Properties.Resources.resources
