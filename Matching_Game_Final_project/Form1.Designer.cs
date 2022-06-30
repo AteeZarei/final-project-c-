@@ -48,7 +48,6 @@ namespace Matching_Game_Final_project
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
@@ -76,7 +75,6 @@ namespace Matching_Game_Final_project
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.splitContainer1.Panel2.Controls.Add(this.button4);
             this.splitContainer1.Panel2.Controls.Add(this.button3);
             this.splitContainer1.Panel2.Controls.Add(this.button2);
             this.splitContainer1.Panel2.Controls.Add(this.button1);
@@ -360,23 +358,11 @@ namespace Matching_Game_Final_project
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.DeepPink;
-            this.button4.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(79, 363);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(135, 57);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "Restart";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.Fuchsia;
             this.button3.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(79, 55);
+            this.button3.Location = new System.Drawing.Point(79, 70);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(135, 57);
             this.button3.TabIndex = 3;
@@ -388,7 +374,7 @@ namespace Matching_Game_Final_project
             // 
             this.button2.BackColor = System.Drawing.Color.Yellow;
             this.button2.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(79, 461);
+            this.button2.Location = new System.Drawing.Point(79, 433);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(135, 56);
             this.button2.TabIndex = 2;
@@ -398,9 +384,9 @@ namespace Matching_Game_Final_project
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Orange;
+            this.button1.BackColor = System.Drawing.Color.DeepPink;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(79, 238);
+            this.button1.Location = new System.Drawing.Point(79, 301);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(135, 57);
             this.button1.TabIndex = 1;
@@ -412,7 +398,7 @@ namespace Matching_Game_Final_project
             // 
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label17.Location = new System.Drawing.Point(79, 142);
+            this.label17.Location = new System.Drawing.Point(79, 186);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(124, 28);
             this.label17.TabIndex = 0;
@@ -473,7 +459,6 @@ namespace Matching_Game_Final_project
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
     }
 }
 
